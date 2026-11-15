@@ -1,0 +1,5 @@
+.DS_Store
+logseq/.recycle/
+logseq/bak/
+logseq/graphs-txid*
+logseq/tmp/
